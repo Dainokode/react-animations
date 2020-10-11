@@ -4,7 +4,7 @@ import './styles.css';
 export default function App() {
 	return (
 		<div className="container">
-			<h1>React Animations</h1>
+			<h1>React Animations - React Spring</h1>
 		</div>
 	);
 }
