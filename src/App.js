@@ -1,10 +1,13 @@
 import React from 'react';
+import Heading1 from './components/Heading1';
 import './styles.css';
 
-export default function App() {
+const App = () => {
 	return (
 		<div className="container">
-			<h1>React Animations - React Spring</h1>
+			<Heading1 />
 		</div>
 	);
-}
+};
+
+export default App;
